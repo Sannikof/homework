@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.first-website {
+    color: #c537c5;
+    background: none;
+}
+
+.header {
+    background: #333030;
+    color: #fff;
+    height: 110px;
+    overflow: hidden;
+}
+
+.interior {
+    background: #d53737;
+    height: 100px;
+    width: 100px;
+}
+
+.footer {
+    background: #c077d0;
+    width: 300px;
+}
+
+span {
+    background: #78009c;
+    color: #fff;
+}
