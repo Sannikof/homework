@@ -1,0 +1,23 @@
+.first__bg {
+    background: #f5aa13;
+    height: 60px;
+    width: 100%;
+}
+
+.screen {
+    width: 20%;
+}
+
+.quote {
+    background: #fff0a4;
+}
+
+.footer {
+    color: #fff;
+    background: #a132f6;
+    height: 300px;
+}
+
+.footer__link {
+    color: #fff;
+}
