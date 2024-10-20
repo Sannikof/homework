@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background: #f2eafe;
+    border: 1px solid #000;
+    border-radius: 30px 0 0 30px;
+    width: 1150px;
+    height: 500px;
+    overflow: auto;
+}
+
+.internal__header {
+    display: inline-block;
+    border-radius: 25px;
+    background: #b1a680;
+    width: 235px;
+    height: 180px;
+    padding: 10px 20px 30px 20px;
+    margin: 5px;
+    box-shadow: inset 0 0 5px #000;
+}
