@@ -1,0 +1,36 @@
+body {
+    background: #262629;
+    color: #fff;
+}
+
+.container {
+    margin: 0 0;
+    max-width: 1250px;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.figur {
+    position: relative;
+    height: 100%;
+}
+
+.block__rectangle {
+    position: fixed;
+    right: 10px;
+    bottom: 24px;
+    height: 30px;
+    width: 300px;
+    background: #ffffff;
+    border-radius: 2px;
+}   
+
+.block__circle {
+    position: fixed;
+    bottom: 40px;
+    right: 250px;
+    background: #dd4242;
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+}
