@@ -1,0 +1,37 @@
+body {
+    background: #262629;
+    color: #fff;
+}
+
+.container {
+    margin: 0 0;
+    max-width: 1250px;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.figur {
+    position: relative;
+    height: 100%;
+}
+
+.block__rectangle {
+    position: fixed;
+    right: 50px;
+    left: 50vw;
+    bottom: 100px;
+    min-height: 100px;
+    height: 30px;
+    background: #ffffff;
+    border-radius: 10px;
+}   
+
+.block__circle {
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    background: #dd4242;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+}
